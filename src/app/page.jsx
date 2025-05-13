@@ -66,7 +66,7 @@ export default function Home() {
         </section>
 
         <footer className="text-center text-sm text-muted-foreground py-8">
-          <p>&copy; {new Date().getFullYear()} VadaTracker. Powered by good food and good code.</p>
+          <p>&copy; {new Date().getFullYear()} VadaTracker. Powered by good food and good code by LeoPantsulaia.</p>
         </footer>
       </div>
     </div>
